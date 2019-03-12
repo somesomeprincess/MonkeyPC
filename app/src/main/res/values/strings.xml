@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">XuhangTest</string>
+    <string name="tips">XuhangTest Tips</string>
+    <string name="starttest">Start Test</string>
+    <string name="cleandb">Clean Data</string>
+    <string name="instruction">1、需要root权限\n2、数据存放在数据库\n/data/data/hippo.com.xuhangtest/databases/power.db\n
+        3、进行以下场景操作：拍照--查看优酷视频--听音乐\n4、需要命令行停止\nadb shell hippo.com.xuhangtest  查到pid用kill命令kill掉
+    </string>
+    <string name="xuanfuqiuopen">开启悬浮球</string>
+    <string name="xuanfuqiuclose">关闭悬浮球</string>
+    <string name="liulanqi">浏览器</string>
+
+</resources>

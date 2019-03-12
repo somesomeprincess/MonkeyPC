@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">powerts</string>
+    <string name="shareid">android.uid.system</string>
+</resources>
